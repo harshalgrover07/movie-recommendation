@@ -1,10 +1,9 @@
+streamlit
+altair==4.2.2
 pandas
 numpy
 scikit-learn
 gensim
-streamlit
 matplotlib
 seaborn
 regex
-jupyter
-ipykernel
